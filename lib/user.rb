@@ -1,2 +1,3 @@
 class User
-  emd
+  
+end
